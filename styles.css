@@ -1,0 +1,213 @@
+/*header{
+    color: #d3210a;
+    backdrop-filter: blur(10px);
+    border: 3px solid #f4f4f4;
+    border-radius: 50px;
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 10px;   
+}
+.fondo{
+    height: 100vh;
+    width: 100vw;
+    background: url(Foto/Fondo.jpg) center;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-attachment: fixed;  
+}
+.title{
+    text-align: center;
+    height: 100px;
+    color: #d11534;
+}
+.cuadros{
+    height: 300px;
+    width: 300px;
+}
+p{
+    font-size: 1.2rem;
+    color: #ffff;
+}
+.Card{
+    backdrop-filter: blur(5px);
+    text-align: center;
+    border-radius: 50px;
+    height: 450px;
+    width: 250x;
+    border: 3px solid #810d0d;
+    margin-bottom: 5px;
+}
+.ref{
+    border: 3px solid #faf2f2;
+    backdrop-filter: blur(10px);
+    border-radius: 10px ;
+    height: 55%;
+    width: auto;
+}
+.tabla{
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(236, 152, 152);
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+.tabla2{
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgb(155, 131, 131);
+    border-radius:10px;
+    height: auto;
+    width: auto;
+    align-items: center;
+}
+.centrar{
+    margin: 0 auto;
+}
+.imagen{
+    width: 300px;
+    height: 300px;
+    position: absolute 300px;
+    border-radius: 50px;
+}*/
+
+
+ /* Cambiado a blanco 
+    header {
+        color: #ffffff; 
+        backdrop-filter: blur(10px);
+        border: 3px solid #f4f4f4;
+        border-radius: 50px;
+        font-size: 35px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    .fondo {
+        height: 100vh;
+        width: 100vw;
+        background: url(Foto/Fondo.jpg) center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    
+    .title {
+        text-align: center;
+        height: 100px;
+        color: #b12222; 
+    }
+    
+    .cuadros {
+        height: 300px;
+        width: 300px;
+    }
+    
+    p {
+        font-size: 1.2rem;
+        color: #f3f0f0; 
+    }
+    
+    .Card {
+        backdrop-filter: blur(5px);
+        text-align: center;
+        border-radius: 50px;
+        height: 450px;
+        width: 250x; 
+        border: 3px solid #fc5b5b;
+        margin-bottom: 5px;
+    }
+    
+    .ref {
+        border: 3px solid #ffffff;
+        backdrop-filter: blur(10px);
+        border-radius: 10px;
+        height: 30%;
+        width: auto;
+    }
+    
+    .tabla {
+        border: 3px solid rgb(255, 255, 255);
+        background-color: rgb(184, 146, 146);
+        border-radius:10px;
+        height: auto;
+        width: auto;
+        align-items: center;
+    }
+    .tabla2{
+        border: 3px solid rgb(255, 255, 255);
+        background-color: rgb(170, 118, 118);
+        border-radius:10px;
+        height: auto;
+        width: auto;
+        align-items: center;
+    }
+    .centrar{
+        margin: 0 auto;
+    }
+    .imagen{
+        width: 300px;
+        height: 300px;
+        position: absolute 300px;
+        border-radius: 50px;
+    }*/
+    
+    header {
+        color: #de24b0; 
+        backdrop-filter: blur(10px);
+        border: 3px solid #f4f4f4;
+        border-radius: 50px;
+        font-size: 35px;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+        
+    body {
+            background-image: url('Foto4.jpg');
+            background-size: cover;
+            background-repeat: no-repeat; 
+        }
+        
+    .Card {
+        backdrop-filter: blur(5px);
+        text-align: center;
+        border-radius: 50px;
+        height: auto;
+        width: 250px; 
+        border: 3px solid #b244d3;
+        margin-bottom: 20px;
+        padding: 20px; 
+        margin-left: 20px; 
+        margin-right: 20px; 
+    }
+
+    .large {
+        width: 450px;
+    }
+    
+    
+    .title {
+        text-align: center;
+        height: auto;
+        color: #5b22b1; 
+    }
+    
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+    }
+    
+    .references {
+        width: 100%;
+    }
+    
+    .references th,
+    .references td {
+        padding: 10px; 
+        text-align: center;
+    }
+    
+    .references th {
+        background-color: #d867d5; 
+        color: #7021d0; 
+    }
